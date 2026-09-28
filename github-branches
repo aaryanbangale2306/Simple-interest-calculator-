@@ -1,0 +1,3 @@
+$ git branch -vv
+  bug-fix-typo 43f1033 [origin/bug-fix-typo] Fix typo in README.md
+* main         43f1033 [origin/main] Fix typo in README.md
